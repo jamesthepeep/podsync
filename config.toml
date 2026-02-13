@@ -1,0 +1,7 @@
+[server]
+port = 8080
+# hostname = "https://your-app.up.railway.app"
+
+[feeds]
+    [feeds.ID1]
+    url = "https://www.youtube.com/channel/UCS5Oz6CHmeoF7vSad0qqXfw"
